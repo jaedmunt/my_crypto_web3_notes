@@ -1,7 +1,7 @@
 
-#Warnings
+# Warnings
 
-## 1. 
+## 1. The need to bridge
 
 This is a warning from Metamask whilst setting up the Binance BNB network. I set this up to receive tBNB from the Binnaace faucet, to pay for gas fees on BNB and custom networks running on BNB. 
 
@@ -24,7 +24,9 @@ What I learnt:
   -Safety is a personal responsibility. The need to remain safe is a need to learn and understand what we are doing. 
 
 
-## 2. testnet tokens can be named anything - verification is needed by comparing the details of the token as tokens can be spoofed by name only. Token Contract (WITH 18 Decimals)
+## 2. Token verification
+
+Testnet tokens can be named anything - verification is needed by comparing the details of the token as tokens can be spoofed by name only. Token Contract (WITH 18 Decimals)
 
 Etherscan and associated scans such as BSCscan can be used to get information about a token and verify authenticity
 
