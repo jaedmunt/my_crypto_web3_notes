@@ -1,3 +1,8 @@
+
+#Warnings
+
+## 1. 
+
 This is a warning from Metamask whilst setting up the Binance BNB network. I set this up to receive tBNB from the Binnaace faucet, to pay for gas fees on BNB and custom networks running on BNB. 
 
 ```
@@ -17,3 +22,8 @@ A crypto bridge, also known as a cross-chain connector, is a protocol that allow
 What I learnt: 
   -Amongst scams and real threats, our own lack of understanding is also a threat to ourselves.
   -Safety is a personal responsibility. The need to remain safe is a need to learn and understand what we are doing. 
+
+
+## 2. testnet tokens can be named anything - verification is needed by comparing the details of the token as tokens can be spoofed by name only. Token Contract (WITH 18 Decimals)
+
+Etherscan and associated scans such as BSCscan can be used to get information about a token and verify authenticity
