@@ -27,3 +27,12 @@ What I learnt:
 ## 2. testnet tokens can be named anything - verification is needed by comparing the details of the token as tokens can be spoofed by name only. Token Contract (WITH 18 Decimals)
 
 Etherscan and associated scans such as BSCscan can be used to get information about a token and verify authenticity
+
+You can remain safe by: 
+
+```
+Double-checking the network name
+Verifying the chain ID
+Ensuring the RPC URL is correct
+Confirming the currency symbol matches the expected network
+```
